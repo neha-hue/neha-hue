@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript,Java,**
 
-- 📫 How to reach me **nehaas1900@gmail.com**
+
 
 - ⚡ Fun fact **I am Funny**
 
